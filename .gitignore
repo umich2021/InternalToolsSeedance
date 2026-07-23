@@ -1,0 +1,22 @@
+# Secrets
+.env
+backend/.env
+
+# Python
+backend/.venv/
+__pycache__/
+*.pyc
+
+# Saved reference images (local user data)
+backend/data/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# OS
+.DS_Store
+
+# Editor/tooling local state
+.claude/
+backend/.vite/
